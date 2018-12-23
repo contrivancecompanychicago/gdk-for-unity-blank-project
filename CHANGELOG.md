@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+### Changed
+
+- Updated the default Unity version to `2018.3.0f2`.
+
 ## `0.1.3` - 2018-11-26
 
 ### Added
